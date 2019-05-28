@@ -1,1 +1,3 @@
-dist/packages.js	linguist-vendored
+dist/*.js	linguist-vendored
+src/*.js	linguist-vendored
+/*	linguist-vendored
