@@ -1,0 +1,30 @@
+{
+  "name": "npm2asp",
+  "version": "1.0.0",
+  "description": "It's a bundler that makes possible for you to leverage your favorite node.js libraries to power your ASP (Active Server Pages) application.",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "webpack --mode production"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-es2015-ie": "^6.7.0",
+    "markdown-it": "*",
+    "markdown-it-abbr": "*",
+    "markdown-it-anchor": "*",
+    "markdown-it-attrs": "*",
+    "markdown-it-deflist": "*",
+    "markdown-it-footnote": "*",
+    "markdown-it-mark": "*",
+    "markdown-it-sub": "*",
+    "markdown-it-sup": "*",
+    "markdown-it-toc-done-right": "*",
+    "moment": "*",
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.1"
+  }
+}
